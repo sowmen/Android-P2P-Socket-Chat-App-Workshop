@@ -6,6 +6,7 @@
 * [https://www.youtube.com/watch?v=6kPOhWqHqZc](https://www.youtube.com/watch?v=6kPOhWqHqZc)
 * [https://www.javatpoint.com/socket-programming](https://www.javatpoint.com/socket-programming)
 * [https://www.tutorialspoint.com/java/java\_networking.htm](https://www.tutorialspoint.com/java/java_networking.htm)
+* [https://www.dreamincode.net/forums/topic/396185-android-socket-tutorial-part-1/](https://www.dreamincode.net/forums/topic/396185-android-socket-tutorial-part-1/) - Must read
 
 ### Android Threads
 
