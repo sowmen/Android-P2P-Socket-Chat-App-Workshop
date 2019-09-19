@@ -1,2 +1,22 @@
-# Android-P2P-Socket-Chat-App
-A Chat Application using Android Socket Programming and Peer-Peer communication
+# Android P2P Socket Chat App
+
+### Java Socket Programming
+
+* [https://www.youtube.com/playlist?list=PLoW9ZoLJX39Xcdaa4Dn5WLREHblolbji4](https://www.youtube.com/playlist?list=PLoW9ZoLJX39Xcdaa4Dn5WLREHblolbji4)
+* [https://www.youtube.com/watch?v=6kPOhWqHqZc](https://www.youtube.com/watch?v=6kPOhWqHqZc)
+* [https://www.javatpoint.com/socket-programming](https://www.javatpoint.com/socket-programming)
+* [https://www.tutorialspoint.com/java/java\_networking.htm](https://www.tutorialspoint.com/java/java_networking.htm)
+
+### Android Threads
+
+* [https://www.toptal.com/android/android-threading-all-you-need-to-know](https://www.toptal.com/android/android-threading-all-you-need-to-know)
+* [https://www.youtube.com/watch?v=EThkglxLxSM](https://www.youtube.com/watch?v=EThkglxLxSM) - Async task
+
+### Android Implementation
+
+{% embed url="http://androidsrc.net/android-client-server-using-sockets-server-implementation/" %}
+
+{% embed url="http://androidsrc.net/android-client-server-using-sockets-client-implementation/" %}
+
+
+
